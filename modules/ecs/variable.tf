@@ -22,7 +22,7 @@ variable "container_memory" {
   default = "512"
 }
 variable "containerPort" {
-  default = 80
+  default = 8080
 }
 variable "hostPort" {
   default = 80
